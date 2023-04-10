@@ -1,0 +1,22 @@
+{
+  "name": "jswx",
+  "version": "1.6.0",
+  "description": "微信JS-SDK",
+  "keywords": [
+    "weixin",
+    "jssdk",
+    "jweixin"
+  ],
+  "main": "index.min.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangnd/jswx.git"
+  },
+  "homepage": "https://github.com/zhangnd/jswx",
+  "author": "zhangnd",
+  "license": "MIT"
+}
